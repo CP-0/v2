@@ -1,1 +1,5 @@
-image: v2ray/dev
+image:
+  file: .gitpod.dockerfile
+
+ports:
+  - port: 8000
